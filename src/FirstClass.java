@@ -3,6 +3,9 @@ public class FirstClass {
 	// Hello
 	
 	//What
+	public int exponential(int x, int y){
+		return 0;
+	}
 	public int divide(int x, int y){
 		return 5;
 	}
