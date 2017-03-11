@@ -4,7 +4,7 @@ public class FirstClass {
 	
 	//What
 	public int divide(int x, int y){
-		return 0;
+		return 3;
 	}
 	public int add(int x, int y){
 		return 0;
